@@ -7,7 +7,7 @@ const HeroContent = () => {
             </h1>
             <p data-aos="fade-left" data-aos-delay="150" className="mt-6 text-sm md:text-base text-white text-opacity-60">
                 Master programming with our courses, projects,
-                and expert guidance. Whether you're a beginner or advancing your skills,
+                and expert guidance. Whether you&apos;re a beginner or advancing your skills,
                 our platform has everything you need to succeed in tech
             </p>
             <div className="mt-5 flex items-center space-x-4">

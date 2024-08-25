@@ -27,7 +27,7 @@ const Review = () => {
                                 99%
                             </p>
                             <p className="text-white">
-                                Student's Complete <br />
+                                Student&apos;s Complete <br />
                                 Course Successfully
                             </p>
                         </div>
